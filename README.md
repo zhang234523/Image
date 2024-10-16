@@ -13,6 +13,12 @@
 
 ### 手把手教程
 
+[公众号文案版](https://mp.weixin.qq.com/s?__biz=MzkwODYyNTY4MQ==&mid=2247487695&idx=1&sn=bff13c225a0d75f18912048c33b3ed6e&chksm=c14f00d6566f92471b14c3b339ee942225bac8a8e4621b63cacced2225c9d3962fb9cb8f6860&mpshare=1&scene=1&srcid=1015xqypy0tpGkdzyztM6xhj&sharer_shareinfo=99d7ee747e42253d5895705dc864476f&sharer_shareinfo_first=99d7ee747e42253d5895705dc864476f#rd)
+
+[油管视频讲解](https://www.youtube.com/watch?v=H_RKkkmBiTs&t=185s)
+
+[油管视频的配套文案](https://blog.cmliussss.com/p/telegraph-Image/)
+
 简单 3 步，即可部署本项目，拥有自己的图床
 
 1.Fork 本仓库 (注意：必须使用 Git 或者 Wrangler 命令行工具部署后才能正常使用，[文档](https://developers.cloudflare.com/pages/functions/get-started/#deploy-your-function))
